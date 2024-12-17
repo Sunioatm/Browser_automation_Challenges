@@ -1,0 +1,66 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Git files
+.git/
+*.lock
+
+# Compiled files
+*.class
+*.o
+*.so
+
+# Python-specific
+__pycache__/
+*.pyc
+
+# Java-specific
+*.war
+*.ear
+*.jar
+s
+# macOS-specific
+.AppleDouble
+.LSOverride

@@ -1,0 +1,1202 @@
+[
+  {
+    "metadata": "page1-1",
+    "article": "Nov 20, 2023\nHandling Dynamic Web Pages in Browser Automation Scripts"
+  },
+  {
+    "metadata": "page1-2",
+    "article": "Nov 20, 2023\nRPA in Government: Enhancing Public Service Delivery"
+  },
+  {
+    "metadata": "page1-3",
+    "article": "Nov 20, 2023\nRPA for Test Automation: A Game Changer?"
+  },
+  {
+    "metadata": "page1-4",
+    "article": "Nov 20, 2023\nHow to Transition from Manual QA to SDET"
+  },
+  {
+    "metadata": "page1-5",
+    "article": "Nov 20, 2023\nSelenium WebDriver: Mastering the Art of Web Testing"
+  },
+  {
+    "metadata": "page1-6",
+    "article": "Nov 20, 2023\nBuilding a Strong QA Engineering Team: Strategies and Tips"
+  },
+  {
+    "metadata": "page1-7",
+    "article": "Nov 20, 2023\nTest Automation Metrics: What to Measure and Why"
+  },
+  {
+    "metadata": "page1-8",
+    "article": "Nov 20, 2023\nIntegrating RPA into Your Enterprise Infrastructure"
+  },
+  {
+    "metadata": "page1-9",
+    "article": "Nov 20, 2023\nRPA in Finance: Transforming Back-Office Operations"
+  },
+  {
+    "metadata": "page1-10",
+    "article": "Nov 20, 2023\nQA Engineering: A Crucial Aspect of Quality Assurance"
+  },
+  {
+    "metadata": "page1-11",
+    "article": "Nov 20, 2023\nEssential Skills for a Modern QA Engineer"
+  },
+  {
+    "metadata": "page1-12",
+    "article": "Nov 20, 2023\nAutomated Accessibility Testing: Why It Matters"
+  },
+  {
+    "metadata": "page1-13",
+    "article": "Nov 20, 2023\nThe SDET's Role in End-to-End Testing Environments"
+  },
+  {
+    "metadata": "page1-14",
+    "article": "Nov 20, 2023\nBrowser Automation for Efficient Form Filling and Data Entry"
+  },
+  {
+    "metadata": "page1-15",
+    "article": "Nov 20, 2023\nCross-Browser Testing: Strategies and Tools"
+  },
+  {
+    "metadata": "page2-1",
+    "article": "Nov 20, 2023\nBehavior-Driven Development (BDD) in Automated Testing"
+  },
+  {
+    "metadata": "page2-2",
+    "article": "Nov 20, 2023\nMachine Learning in Test Automation: Use Cases and Benefits"
+  },
+  {
+    "metadata": "page2-3",
+    "article": "Nov 20, 2023\nIntegrating Test Automation with Project Management Tools"
+  },
+  {
+    "metadata": "page2-4",
+    "article": "Nov 20, 2023\nAutomating API Testing: Validating Web Services"
+  },
+  {
+    "metadata": "page2-5",
+    "article": "Nov 20, 2023\nRPA in Telecommunications: Use Cases and Benefits"
+  },
+  {
+    "metadata": "page2-6",
+    "article": "Nov 20, 2023\nOvercoming Common Challenges in QA Engineering Projects"
+  },
+  {
+    "metadata": "page2-7",
+    "article": "Nov 20, 2023\nSecurity Testing: Protecting Your Applications"
+  },
+  {
+    "metadata": "page2-8",
+    "article": "Nov 20, 2023\nThe Impact of Quantum Computing on QA and Testing"
+  },
+  {
+    "metadata": "page2-9",
+    "article": "Nov 20, 2023\nWriting Maintainable and Scalable Browser Automation Code"
+  },
+  {
+    "metadata": "page2-10",
+    "article": "Nov 20, 2023\nThe Evolution of QA Engineering in Software Development"
+  },
+  {
+    "metadata": "page2-11",
+    "article": "Nov 20, 2023\nThe Role of Browser Automation in SEO and Marketing"
+  },
+  {
+    "metadata": "page2-12",
+    "article": "Nov 20, 2023\nStrategies for Advancing Your Career as an SDET Tester"
+  },
+  {
+    "metadata": "page2-13",
+    "article": "Nov 20, 2023\nTest Automation Frameworks: Choosing the Right One"
+  },
+  {
+    "metadata": "page2-14",
+    "article": "Nov 20, 2023\nChallenges and Solutions in QA Engineering"
+  },
+  {
+    "metadata": "page2-15",
+    "article": "Nov 20, 2023\nUnderstanding the QA Engineer's Role in DevOps"
+  },
+  {
+    "metadata": "page3-1",
+    "article": "Nov 20, 2023\nRPA and Process Mining: Identifying Automation Opportunities"
+  },
+  {
+    "metadata": "page3-2",
+    "article": "Nov 20, 2023\nJavaScript Libraries That Simplify Browser Automation"
+  },
+  {
+    "metadata": "page3-3",
+    "article": "Nov 20, 2023\nExploring the Differences Between SDET and QA Tester Roles"
+  },
+  {
+    "metadata": "page3-4",
+    "article": "Nov 20, 2023\nReal-World Applications of Robotic Process Automation (RPA)"
+  },
+  {
+    "metadata": "page3-5",
+    "article": "Nov 20, 2023\nAutomating Accessibility Testing: Ensuring Inclusivity"
+  },
+  {
+    "metadata": "page3-6",
+    "article": "Nov 20, 2023\nPerformance Testing with JMeter"
+  },
+  {
+    "metadata": "page3-7",
+    "article": "Nov 20, 2023\nThe Growing Demand for SDET Roles in Technology Companies"
+  },
+  {
+    "metadata": "page3-8",
+    "article": "Nov 20, 2023\nContinuous Integration and Continuous Delivery for SDETs"
+  },
+  {
+    "metadata": "page3-9",
+    "article": "Nov 20, 2023\nAutomating User Interactions: Simulating Real-World Scenarios"
+  },
+  {
+    "metadata": "page3-10",
+    "article": "Nov 20, 2023\nIntegrating Browser Automation with CI/CD Pipelines"
+  },
+  {
+    "metadata": "page3-11",
+    "article": "Nov 20, 2023\nEssential Tools and Technologies for SDETs"
+  },
+  {
+    "metadata": "page3-12",
+    "article": "Nov 20, 2023\nThe Rise of Codeless Test Automation Tools"
+  },
+  {
+    "metadata": "page3-13",
+    "article": "Nov 20, 2023\nTest Automation for Single Page Applications (SPAs)"
+  },
+  {
+    "metadata": "page3-14",
+    "article": "Nov 20, 2023\nThe Role of Automated Testing in Cybersecurity"
+  },
+  {
+    "metadata": "page3-15",
+    "article": "Nov 20, 2023\nSDET vs. Automation Engineer: Differences and Similarities"
+  },
+  {
+    "metadata": "page4-1",
+    "article": "Nov 20, 2023\nBrowser Automation with Puppeteer: A Comprehensive Guide"
+  },
+  {
+    "metadata": "page4-2",
+    "article": "Nov 20, 2023\nRPA Trends and Innovations to Watch in the Coming Years"
+  },
+  {
+    "metadata": "page4-3",
+    "article": "Nov 20, 2023\nDeveloping a Robust SDET Skill Set: What You Need to Know"
+  },
+  {
+    "metadata": "page4-4",
+    "article": "Nov 20, 2023\nBrowser Automation for Social Media Management"
+  },
+  {
+    "metadata": "page4-5",
+    "article": "Nov 20, 2023\nBest Practices for Writing Reliable Automated Tests"
+  },
+  {
+    "metadata": "page4-6",
+    "article": "Nov 20, 2023\nPerformance Testing with Selenium: A Comprehensive Guide"
+  },
+  {
+    "metadata": "page4-7",
+    "article": "Nov 20, 2023\nRPA in Retail: Transforming Customer Experience"
+  },
+  {
+    "metadata": "page4-8",
+    "article": "Nov 20, 2023\nKey Components of an Effective QA Engineering Strategy"
+  },
+  {
+    "metadata": "page4-9",
+    "article": "Nov 20, 2023\nBrowser Automation for Performance Testing"
+  },
+  {
+    "metadata": "page4-10",
+    "article": "Nov 20, 2023\nRPA vs. Traditional Automation: What's the Difference?"
+  },
+  {
+    "metadata": "page4-11",
+    "article": "Nov 20, 2023\nAutomated Testing Myths: Debunked"
+  },
+  {
+    "metadata": "page4-12",
+    "article": "Nov 20, 2023\nRPA and Business Process Management: A Perfect Match?"
+  },
+  {
+    "metadata": "page4-13",
+    "article": "Nov 20, 2023\nBest Practices for Test Automation Reporting"
+  },
+  {
+    "metadata": "page4-14",
+    "article": "Nov 20, 2023\nOvercoming Common Test Automation Challenges"
+  },
+  {
+    "metadata": "page4-15",
+    "article": "Nov 20, 2023\nRPA for Customer Service: Improving Efficiency and Satisfaction"
+  },
+  {
+    "metadata": "page5-1",
+    "article": "Nov 20, 2023\nWriting Clean and Maintainable Test Code"
+  },
+  {
+    "metadata": "page5-2",
+    "article": "Nov 20, 2023\nAutomated Testing Strategies for Mobile Applications"
+  },
+  {
+    "metadata": "page5-3",
+    "article": "Nov 20, 2023\nAutomating UI Tests: Validating User Interactions"
+  },
+  {
+    "metadata": "page5-4",
+    "article": "Nov 20, 2023\nThe Future of SDET: Trends and Predictions"
+  },
+  {
+    "metadata": "page5-5",
+    "article": "Nov 20, 2023\nAutomated Testing with AI: Opportunities and Challenges"
+  },
+  {
+    "metadata": "page5-6",
+    "article": "Nov 20, 2023\nScaling Test Automation for Large Projects"
+  },
+  {
+    "metadata": "page5-7",
+    "article": "Nov 20, 2023\nCommon Mistakes to Avoid in Automated Testing"
+  },
+  {
+    "metadata": "page5-8",
+    "article": "Nov 20, 2023\nTest Automation for Legacy Systems: Challenges and Solutions"
+  },
+  {
+    "metadata": "page5-9",
+    "article": "Nov 20, 2023\nRPA and AI: A Powerful Synergy"
+  },
+  {
+    "metadata": "page5-10",
+    "article": "Nov 20, 2023\nTest Environment Management for Efficient Automation"
+  },
+  {
+    "metadata": "page5-11",
+    "article": "Nov 20, 2023\nAutomating API Testing with REST Assured"
+  },
+  {
+    "metadata": "page5-12",
+    "article": "Nov 20, 2023\nBuilding a Career in QA Engineering: Tips for Success"
+  },
+  {
+    "metadata": "page5-13",
+    "article": "Nov 20, 2023\nAutomating Form Filling and Submissions"
+  },
+  {
+    "metadata": "page5-14",
+    "article": "Nov 20, 2023\nThe Impact of Low-Code/No-Code on QA and Testing"
+  },
+  {
+    "metadata": "page5-15",
+    "article": "Nov 20, 2023\nThe Impact of AI on Browser Automation and Testing"
+  },
+  {
+    "metadata": "page6-1",
+    "article": "Nov 20, 2023\nThe Essential Guide to Becoming a Successful SDET"
+  },
+  {
+    "metadata": "page6-2",
+    "article": "Nov 20, 2023\nThe Evolving Role of the QA Engineer"
+  },
+  {
+    "metadata": "page6-3",
+    "article": "Nov 20, 2023\nBuilding an Effective Automated Testing Strategy"
+  },
+  {
+    "metadata": "page6-4",
+    "article": "Nov 20, 2023\nEfficient Test Automation Strategies for Beginners"
+  },
+  {
+    "metadata": "page6-5",
+    "article": "Nov 20, 2023\nEffective Test Case Management"
+  },
+  {
+    "metadata": "page6-6",
+    "article": "Nov 20, 2023\nTest Automation for Microservices Architectures"
+  },
+  {
+    "metadata": "page6-7",
+    "article": "Nov 20, 2023\nOptimizing Logistics and Distribution with RPA Solutions"
+  },
+  {
+    "metadata": "page6-8",
+    "article": "Nov 20, 2023\nRPA and Enterprise Resource Planning (ERP) Integration"
+  },
+  {
+    "metadata": "page6-9",
+    "article": "Nov 20, 2023\nThe Future of Automated Testing: Trends and Predictions"
+  },
+  {
+    "metadata": "page6-10",
+    "article": "Nov 20, 2023\nBuilding a Career in Test Automation"
+  },
+  {
+    "metadata": "page6-11",
+    "article": "Nov 20, 2023\nMobile Game Testing Automation: Strategies and Tools"
+  },
+  {
+    "metadata": "page6-12",
+    "article": "Nov 20, 2023\nRPA Scalability: Designing for Enterprise-Wide Adoption"
+  },
+  {
+    "metadata": "page6-13",
+    "article": "Nov 20, 2023\nDefect Tracking and Reporting: Best Practices"
+  },
+  {
+    "metadata": "page6-14",
+    "article": "Nov 20, 2023\nAutomating Integration Tests: Ensuring System Functionality"
+  },
+  {
+    "metadata": "page6-15",
+    "article": "Nov 20, 2023\nRPA in Insurance: Streamlining Claims Processing"
+  },
+  {
+    "metadata": "page7-1",
+    "article": "Nov 20, 2023\nRPA in Human Resources: Streamlining HR Processes"
+  },
+  {
+    "metadata": "page7-2",
+    "article": "Nov 20, 2023\nRPA and Intelligent Document Processing: A Powerful Combination"
+  },
+  {
+    "metadata": "page7-3",
+    "article": "Nov 20, 2023\nRPA in Telecom: Improving Network Performance and Management"
+  },
+  {
+    "metadata": "page7-4",
+    "article": "Nov 20, 2023\nBest Practices for Secure Browser Automation"
+  },
+  {
+    "metadata": "page7-5",
+    "article": "Nov 20, 2023\nCreating Effective Browser Automation Scripts for Beginners"
+  },
+  {
+    "metadata": "page7-6",
+    "article": "Nov 20, 2023\nEmerging Tools and Technologies in QA Engineering"
+  },
+  {
+    "metadata": "page7-7",
+    "article": "Nov 20, 2023\nAutomated Testing for Machine Learning Models"
+  },
+  {
+    "metadata": "page7-8",
+    "article": "Nov 20, 2023\nRPA Center of Excellence: Building and Managing"
+  },
+  {
+    "metadata": "page7-9",
+    "article": "Nov 20, 2023\nMobile App Testing Automation: Tools and Techniques"
+  },
+  {
+    "metadata": "page7-10",
+    "article": "Nov 20, 2023\nBuilding a Robust Test Automation Framework"
+  },
+  {
+    "metadata": "page7-11",
+    "article": "Nov 20, 2023\nAutomated Testing for Augmented Reality (AR) Applications"
+  },
+  {
+    "metadata": "page7-12",
+    "article": "Nov 20, 2023\nJavaScript and Browser Automation: A Powerful Combination"
+  },
+  {
+    "metadata": "page7-13",
+    "article": "Nov 20, 2023\nThe Intersection of QA, SDET, and DevOps"
+  },
+  {
+    "metadata": "page7-14",
+    "article": "Nov 20, 2023\nThe Role of RPA in Modern Business Operations"
+  },
+  {
+    "metadata": "page7-15",
+    "article": "Nov 20, 2023\nRPA and Chatbots: Enhancing Customer Interactions"
+  },
+  {
+    "metadata": "page8-1",
+    "article": "Nov 20, 2023\nThe Future of QA: AI and Machine Learning"
+  },
+  {
+    "metadata": "page8-2",
+    "article": "Nov 20, 2023\nRPA vs. Traditional Automation: Which is Right for You?"
+  },
+  {
+    "metadata": "page8-3",
+    "article": "Nov 20, 2023\nThe ROI of RPA: Measuring Success"
+  },
+  {
+    "metadata": "page8-4",
+    "article": "Nov 20, 2023\nVersion Control and Collaboration for SDETs"
+  },
+  {
+    "metadata": "page8-5",
+    "article": "Nov 20, 2023\nSDET Interview Preparation: Tips and Tricks"
+  },
+  {
+    "metadata": "page8-6",
+    "article": "Nov 20, 2023\nBeyond Selenium: Exploring Modern Browser Automation Tools"
+  },
+  {
+    "metadata": "page8-7",
+    "article": "Nov 20, 2023\nThe Importance of Soft Skills for SDETs"
+  },
+  {
+    "metadata": "page8-8",
+    "article": "Nov 20, 2023\nContinuous Integration and Automated Testing"
+  },
+  {
+    "metadata": "page8-9",
+    "article": "Nov 20, 2023\nThe Role of AI in Modern QA Engineering"
+  },
+  {
+    "metadata": "page8-10",
+    "article": "Nov 20, 2023\nTest Data Generation for Automated Testing"
+  },
+  {
+    "metadata": "page8-11",
+    "article": "Nov 20, 2023\nScaling Test Automation: Strategies for Growing Teams"
+  },
+  {
+    "metadata": "page8-12",
+    "article": "Nov 20, 2023\nThe Future of RPA: Trends to Watch"
+  },
+  {
+    "metadata": "page8-13",
+    "article": "Nov 20, 2023\nWeb Scraping with Browser Automation: Ethical Considerations"
+  },
+  {
+    "metadata": "page8-14",
+    "article": "Nov 20, 2023\nMobile Testing: Challenges and Solutions"
+  },
+  {
+    "metadata": "page8-15",
+    "article": "Nov 20, 2023\nRPA and Cognitive Automation: The Next Frontier"
+  },
+  {
+    "metadata": "page9-1",
+    "article": "Nov 20, 2023\nBrowser Fingerprinting Evasion Techniques for Automation"
+  },
+  {
+    "metadata": "page9-2",
+    "article": "Nov 20, 2023\nAPI Testing Automation: Best Practices and Tools"
+  },
+  {
+    "metadata": "page9-3",
+    "article": "Nov 20, 2023\nPerformance Testing vs. Load Testing: Understanding the Difference"
+  },
+  {
+    "metadata": "page9-4",
+    "article": "Nov 20, 2023\nTop 10 Test Automation Tools for 2024"
+  },
+  {
+    "metadata": "page9-5",
+    "article": "Nov 20, 2023\nAutomated Testing for Microservices Architecture"
+  },
+  {
+    "metadata": "page9-6",
+    "article": "Nov 20, 2023\nRPA Governance: Establishing Policies and Procedures"
+  },
+  {
+    "metadata": "page9-7",
+    "article": "Nov 20, 2023\nRPA for Business Process Improvement"
+  },
+  {
+    "metadata": "page9-8",
+    "article": "Nov 20, 2023\nCareer Path for SDETs: Growth and Opportunities"
+  },
+  {
+    "metadata": "page9-9",
+    "article": "Nov 20, 2023\nThe Role of SDETs in Shift-Left Testing"
+  },
+  {
+    "metadata": "page9-10",
+    "article": "Nov 20, 2023\nRPA Implementation Strategies for Small Businesses"
+  },
+  {
+    "metadata": "page9-11",
+    "article": "Nov 20, 2023\nAutomating Unit Tests: Best Practices"
+  },
+  {
+    "metadata": "page9-12",
+    "article": "Nov 20, 2023\nThe Impact of RPA on Healthcare Industry Processes"
+  },
+  {
+    "metadata": "page9-13",
+    "article": "Nov 20, 2023\nRPA Implementation: Common Pitfalls and How to Avoid Them"
+  },
+  {
+    "metadata": "page9-14",
+    "article": "Nov 20, 2023\nRPA in Real Estate: Streamlining Property Management"
+  },
+  {
+    "metadata": "page9-15",
+    "article": "Nov 20, 2023\nRPA and Robotic Desktop Automation (RDA): What's the Difference?"
+  },
+  {
+    "metadata": "page10-1",
+    "article": "Nov 20, 2023\nEnhancing Product Quality with Robust QA Engineering Practices"
+  },
+  {
+    "metadata": "page10-2",
+    "article": "Nov 20, 2023\nLow-Code/No-Code Test Automation: Democratizing Testing"
+  },
+  {
+    "metadata": "page10-3",
+    "article": "Nov 20, 2023\nRPA and the Future of Work: Impact and Opportunities"
+  },
+  {
+    "metadata": "page10-4",
+    "article": "Nov 20, 2023\nBenefits of Implementing Automated Testing in Your Workflow"
+  },
+  {
+    "metadata": "page10-5",
+    "article": "Nov 20, 2023\nScaling RPA Solutions Across Large Organizations"
+  },
+  {
+    "metadata": "page10-6",
+    "article": "Nov 20, 2023\nAutomating Regression Testing: Tips and Techniques"
+  },
+  {
+    "metadata": "page10-7",
+    "article": "Nov 20, 2023\nBrowser Fingerprinting: Challenges for Automation Engineers"
+  },
+  {
+    "metadata": "page10-8",
+    "article": "Nov 20, 2023\nSDET Interview Preparation: Tips and Sample Questions"
+  },
+  {
+    "metadata": "page10-9",
+    "article": "Nov 20, 2023\nBrowser Compatibility Testing: Automated Approaches"
+  },
+  {
+    "metadata": "page10-10",
+    "article": "Nov 20, 2023\nThe Benefits of Continuous Testing for SDET Teams"
+  },
+  {
+    "metadata": "page10-11",
+    "article": "Nov 20, 2023\nData-Driven Testing: Maximizing Test Coverage"
+  },
+  {
+    "metadata": "page10-12",
+    "article": "Nov 20, 2023\nRPA for Customer Service: Enhancing the Customer Experience"
+  },
+  {
+    "metadata": "page10-13",
+    "article": "Nov 20, 2023\nQA Metrics and Reporting: Measuring Success"
+  },
+  {
+    "metadata": "page10-14",
+    "article": "Nov 20, 2023\nPerformance Testing: Ensuring Optimal User Experience"
+  },
+  {
+    "metadata": "page10-15",
+    "article": "Nov 20, 2023\nRPA vs. Traditional Automation: Understanding the Differences"
+  },
+  {
+    "metadata": "page11-1",
+    "article": "Nov 20, 2023\nBest Practices for RPA Implementation"
+  },
+  {
+    "metadata": "page11-2",
+    "article": "Nov 20, 2023\nKey Considerations for Implementing QA Engineering Processes"
+  },
+  {
+    "metadata": "page11-3",
+    "article": "Nov 20, 2023\nQA Engineering Challenges in the Age of Digital Transformation"
+  },
+  {
+    "metadata": "page11-4",
+    "article": "Nov 20, 2023\nUsability Testing: Enhancing User Satisfaction"
+  },
+  {
+    "metadata": "page11-5",
+    "article": "Nov 20, 2023\nAutomating Security Tests: Identifying Vulnerabilities"
+  },
+  {
+    "metadata": "page11-6",
+    "article": "Nov 20, 2023\nThe Importance of QA Engineering in Agile Development"
+  },
+  {
+    "metadata": "page11-7",
+    "article": "Nov 20, 2023\nBecoming an SDET: Skills and Career Pathways"
+  },
+  {
+    "metadata": "page11-8",
+    "article": "Nov 20, 2023\nUsing Browser Automation for A/B Testing and Analysis"
+  },
+  {
+    "metadata": "page11-9",
+    "article": "Nov 20, 2023\nBuilding Your First RPA Bot: A Step-by-Step Guide"
+  },
+  {
+    "metadata": "page11-10",
+    "article": "Nov 20, 2023\nChoosing the Right Automated Testing Tools"
+  },
+  {
+    "metadata": "page11-11",
+    "article": "Nov 20, 2023\nBuilding a Robust Test Automation Framework from Scratch"
+  },
+  {
+    "metadata": "page11-12",
+    "article": "Nov 20, 2023\nThe Role of QA in DevSecOps"
+  },
+  {
+    "metadata": "page11-13",
+    "article": "Nov 20, 2023\nAutomated Testing for API: Tools and Best Practices"
+  },
+  {
+    "metadata": "page11-14",
+    "article": "Nov 20, 2023\nHeadless Browser Testing: Pros, Cons, and Best Practices"
+  },
+  {
+    "metadata": "page11-15",
+    "article": "Nov 20, 2023\nQuality Assurance Engineering Certification Programs to Consider"
+  },
+  {
+    "metadata": "page12-1",
+    "article": "Nov 20, 2023\nThe Importance of Test Planning and Design"
+  },
+  {
+    "metadata": "page12-2",
+    "article": "Nov 20, 2023\nThe Role of SDETs in Agile Development Teams"
+  },
+  {
+    "metadata": "page12-3",
+    "article": "Nov 20, 2023\nOvercoming Common Challenges in Browser Automation"
+  },
+  {
+    "metadata": "page12-4",
+    "article": "Nov 20, 2023\nSecurity Testing Automation: Tools and Techniques"
+  },
+  {
+    "metadata": "page12-5",
+    "article": "Nov 20, 2023\nHow RPA is Transforming the Financial Services Industry"
+  },
+  {
+    "metadata": "page12-6",
+    "article": "Nov 20, 2023\nThe Role of Automation in Continuous Testing"
+  },
+  {
+    "metadata": "page12-7",
+    "article": "Nov 20, 2023\nIntroduction to Browser Automation with Playwright"
+  },
+  {
+    "metadata": "page12-8",
+    "article": "Nov 20, 2023\nDebugging Browser Automation Scripts Like a Pro"
+  },
+  {
+    "metadata": "page12-9",
+    "article": "Nov 20, 2023\nSDET vs. QA: Understanding the Differences"
+  },
+  {
+    "metadata": "page12-10",
+    "article": "Nov 20, 2023\nBuilding an SDET Toolkit: Essential Tools and Resources"
+  },
+  {
+    "metadata": "page12-11",
+    "article": "Nov 20, 2023\nTop 5 Programming Languages for Test Automation"
+  },
+  {
+    "metadata": "page12-12",
+    "article": "Nov 20, 2023\nThe Impact of QA Engineering on Customer Satisfaction"
+  },
+  {
+    "metadata": "page12-13",
+    "article": "Nov 20, 2023\nTest Automation for IoT Devices: Challenges and Approaches"
+  },
+  {
+    "metadata": "page12-14",
+    "article": "Nov 20, 2023\nHow RPA is Improving Efficiency in Public Sector Operations"
+  },
+  {
+    "metadata": "page12-15",
+    "article": "Nov 20, 2023\nAI-Powered Test Automation: The Next Frontier"
+  },
+  {
+    "metadata": "page13-1",
+    "article": "Nov 20, 2023\nLeveraging Browser Automation for Better User Experience Testing"
+  },
+  {
+    "metadata": "page13-2",
+    "article": "Nov 20, 2023\nAutomated Testing for Microservices Architecture"
+  },
+  {
+    "metadata": "page13-3",
+    "article": "Nov 20, 2023\nFuture-Proofing Your QA Engineering Career"
+  },
+  {
+    "metadata": "page13-4",
+    "article": "Nov 20, 2023\nAutomating Mobile App Testing: Challenges and Solutions"
+  },
+  {
+    "metadata": "page13-5",
+    "article": "Nov 20, 2023\nRPA and Business Intelligence: Unlocking Data Insights"
+  },
+  {
+    "metadata": "page13-6",
+    "article": "Nov 20, 2023\nMeasuring the ROI of Automated Testing"
+  },
+  {
+    "metadata": "page13-7",
+    "article": "Nov 20, 2023\nIntroduction to Browser Automation: Tools and Techniques"
+  },
+  {
+    "metadata": "page13-8",
+    "article": "Nov 20, 2023\nStreamlining Procurement Processes with RPA Technologies"
+  },
+  {
+    "metadata": "page13-9",
+    "article": "Nov 20, 2023\nDebugging and Troubleshooting Test Automation Scripts"
+  },
+  {
+    "metadata": "page13-10",
+    "article": "Nov 20, 2023\nQA in Agile: Best Practices and Strategies"
+  },
+  {
+    "metadata": "page13-11",
+    "article": "Nov 20, 2023\nWorking with Test Data and Environments"
+  },
+  {
+    "metadata": "page13-12",
+    "article": "Nov 20, 2023\nAutomating Regression Tests: Preventing Bugs"
+  },
+  {
+    "metadata": "page13-13",
+    "article": "Nov 20, 2023\nAutomated Testing for Voice User Interfaces (VUIs)"
+  },
+  {
+    "metadata": "page13-14",
+    "article": "Nov 20, 2023\nBrowser Extensions for QA Engineers and Testers"
+  },
+  {
+    "metadata": "page13-15",
+    "article": "Nov 20, 2023\nThe Importance of Code Quality in SDET Workflows"
+  },
+  {
+    "metadata": "page14-1",
+    "article": "Nov 20, 2023\nRPA in Legal Services: Improving Efficiency and Accuracy"
+  },
+  {
+    "metadata": "page14-2",
+    "article": "Nov 20, 2023\nRPA Security: Best Practices and Considerations"
+  },
+  {
+    "metadata": "page14-3",
+    "article": "Nov 20, 2023\nThe Role of SDETs in Cloud-Native Development"
+  },
+  {
+    "metadata": "page14-4",
+    "article": "Nov 20, 2023\nSecurity Considerations for Test Automation"
+  },
+  {
+    "metadata": "page14-5",
+    "article": "Nov 20, 2023\nThe Intersection of SDET and DevOps Practices"
+  },
+  {
+    "metadata": "page14-6",
+    "article": "Nov 20, 2023\nBuilding a Robust Browser Automation Framework"
+  },
+  {
+    "metadata": "page14-7",
+    "article": "Nov 20, 2023\nThe Current State of QA Engineering in Agile Methodologies"
+  },
+  {
+    "metadata": "page14-8",
+    "article": "Nov 20, 2023\nThe Future of QA: From Quality Assurance to Quality Engineering"
+  },
+  {
+    "metadata": "page14-9",
+    "article": "Nov 20, 2023\nUI Automation with Selenium and Appium"
+  },
+  {
+    "metadata": "page14-10",
+    "article": "Nov 20, 2023\nAPI Testing: Validating Functionality and Performance"
+  },
+  {
+    "metadata": "page14-11",
+    "article": "Nov 20, 2023\nThe Role of SDETs in Building Reliable Distributed Systems"
+  },
+  {
+    "metadata": "page14-12",
+    "article": "Nov 20, 2023\nA Day in the Life of an SDET: Insights and Experiences"
+  },
+  {
+    "metadata": "page14-13",
+    "article": "Nov 20, 2023\nBrowser Automation for SEO: Tools and Techniques"
+  },
+  {
+    "metadata": "page14-14",
+    "article": "Nov 20, 2023\nChoosing the Right Browser Automation Tool for Your Needs"
+  },
+  {
+    "metadata": "page14-15",
+    "article": "Nov 20, 2023\nBrowser Automation for E-commerce: Use Cases and Benefits"
+  },
+  {
+    "metadata": "page15-1",
+    "article": "Nov 20, 2023\nQA Engineering Best Practices for Effective Software Testing"
+  },
+  {
+    "metadata": "page15-2",
+    "article": "Nov 20, 2023\nCareer Growth Opportunities for Aspiring SDETs"
+  },
+  {
+    "metadata": "page15-3",
+    "article": "Nov 20, 2023\nRPA in Manufacturing: Use Cases and Success Stories"
+  },
+  {
+    "metadata": "page15-4",
+    "article": "Nov 20, 2023\nRPA and Robotic Process Mining: A Synergistic Approach"
+  },
+  {
+    "metadata": "page15-5",
+    "article": "Nov 20, 2023\nContinuous Delivery and Automated Testing: A Perfect Match"
+  },
+  {
+    "metadata": "page15-6",
+    "article": "Nov 20, 2023\nBrowser Automation in Cross-Browser Testing: Tools and Techniques"
+  },
+  {
+    "metadata": "page15-7",
+    "article": "Nov 20, 2023\nThe Cross-disciplinary Nature of QA Engineering"
+  },
+  {
+    "metadata": "page15-8",
+    "article": "Nov 20, 2023\nHeadless Browser Automation: Speed Up Your Testing"
+  },
+  {
+    "metadata": "page15-9",
+    "article": "Nov 20, 2023\nThe Future of Browser Automation: Trends and Predictions"
+  },
+  {
+    "metadata": "page15-10",
+    "article": "Nov 20, 2023\nThe Impact of 5G on QA and Test Automation"
+  },
+  {
+    "metadata": "page15-11",
+    "article": "Nov 20, 2023\nRPA 101: Understanding Robotic Process Automation"
+  },
+  {
+    "metadata": "page15-12",
+    "article": "Nov 20, 2023\nRPA and Artificial Intelligence: The Future of Work"
+  },
+  {
+    "metadata": "page15-13",
+    "article": "Nov 20, 2023\nBuilding a Quality-Driven Culture with Automation"
+  },
+  {
+    "metadata": "page15-14",
+    "article": "Nov 20, 2023\nOvercoming Common RPA Challenges"
+  },
+  {
+    "metadata": "page15-15",
+    "article": "Nov 20, 2023\nBrowser Automation for Web Scraping: Techniques and Tools"
+  },
+  {
+    "metadata": "page16-1",
+    "article": "Nov 20, 2023\nIntegrating RPA with Existing Systems"
+  },
+  {
+    "metadata": "page16-2",
+    "article": "Nov 20, 2023\nHow Automated Testing Is Revolutionizing Software Development"
+  },
+  {
+    "metadata": "page16-3",
+    "article": "Nov 20, 2023\nRPA in Education: Improving Administrative Processes"
+  },
+  {
+    "metadata": "page16-4",
+    "article": "Nov 20, 2023\nBehavior-Driven Development (BDD) and Automated Testing"
+  },
+  {
+    "metadata": "page16-5",
+    "article": "Nov 20, 2023\nThe Future of Browser Automation: AI and Machine Learning"
+  },
+  {
+    "metadata": "page16-6",
+    "article": "Nov 20, 2023\nRPA Use Cases in Retail and E-commerce Industries"
+  },
+  {
+    "metadata": "page16-7",
+    "article": "Nov 20, 2023\nBrowser Automation for Price Monitoring and Analysis"
+  },
+  {
+    "metadata": "page16-8",
+    "article": "Nov 20, 2023\nBrowser Automation for Marketing and Lead Generation"
+  },
+  {
+    "metadata": "page16-9",
+    "article": "Nov 20, 2023\nRPA for Data Entry: Reducing Errors and Increasing Speed"
+  },
+  {
+    "metadata": "page16-10",
+    "article": "Nov 20, 2023\nTop Automated Testing Frameworks for Efficient QA"
+  },
+  {
+    "metadata": "page16-11",
+    "article": "Nov 20, 2023\nHow to Get Started with Browser Automation Using Selenium"
+  },
+  {
+    "metadata": "page16-12",
+    "article": "Nov 20, 2023\nTop Browser Automation Tools You Should Know"
+  },
+  {
+    "metadata": "page16-13",
+    "article": "Nov 20, 2023\nThe Impact of Edge Computing on QA and Testing"
+  },
+  {
+    "metadata": "page16-14",
+    "article": "Nov 20, 2023\nKey Responsibilities of a QA Engineer in Software Projects"
+  },
+  {
+    "metadata": "page16-15",
+    "article": "Nov 20, 2023\nTest Data Management in Automated Testing"
+  },
+  {
+    "metadata": "page17-1",
+    "article": "Nov 20, 2023\nHeadless Browser Automation: Benefits and Use Cases"
+  },
+  {
+    "metadata": "page17-2",
+    "article": "Nov 20, 2023\nRPA in Healthcare: Use Cases and Benefits"
+  },
+  {
+    "metadata": "page17-3",
+    "article": "Nov 20, 2023\nRPA for Human Resources: Streamlining Recruitment and Onboarding"
+  },
+  {
+    "metadata": "page17-4",
+    "article": "Nov 20, 2023\nBridging the Gap Between Development and Testing as an SDET"
+  },
+  {
+    "metadata": "page17-5",
+    "article": "Nov 20, 2023\nDatabase Testing: Ensuring Data Integrity"
+  },
+  {
+    "metadata": "page17-6",
+    "article": "Nov 20, 2023\nSelenium vs. Playwright: Which Should You Choose?"
+  },
+  {
+    "metadata": "page17-7",
+    "article": "Nov 20, 2023\nEssential Skills for Success in Automated Testing"
+  },
+  {
+    "metadata": "page17-8",
+    "article": "Nov 20, 2023\nThe Importance of Test Data Management"
+  },
+  {
+    "metadata": "page17-9",
+    "article": "Nov 20, 2023\nAdvanced Browser Automation Techniques for Developers"
+  },
+  {
+    "metadata": "page17-10",
+    "article": "Nov 20, 2023\nTest Automation for Dark Mode and Theme Switching"
+  },
+  {
+    "metadata": "page17-11",
+    "article": "Nov 20, 2023\nRPA in Supply Chain Management: Enhancing Efficiency"
+  },
+  {
+    "metadata": "page17-12",
+    "article": "Nov 20, 2023\nTest Flakiness: Causes and Mitigation Strategies"
+  },
+  {
+    "metadata": "page17-13",
+    "article": "Nov 20, 2023\nTransforming Supply Chain Management with RPA"
+  },
+  {
+    "metadata": "page17-14",
+    "article": "Nov 20, 2023\nThe Future of Automated Testing: AI and Machine Learning"
+  },
+  {
+    "metadata": "page17-15",
+    "article": "Nov 20, 2023\nContinuous Integration and Automated Testing: Best Practices"
+  },
+  {
+    "metadata": "page18-1",
+    "article": "Nov 20, 2023\nThe Impact of Containerization on Test Automation"
+  },
+  {
+    "metadata": "page18-2",
+    "article": "Nov 20, 2023\nHow RPA is Reshaping the Manufacturing Industry"
+  },
+  {
+    "metadata": "page18-3",
+    "article": "Nov 20, 2023\nAutomation Testing Tools Comparison: Pros and Cons"
+  },
+  {
+    "metadata": "page18-4",
+    "article": "Nov 20, 2023\nThe Benefits of Automated Testing"
+  },
+  {
+    "metadata": "page18-5",
+    "article": "Nov 20, 2023\nSDET's Role in Enhancing Software Quality and Efficiency"
+  },
+  {
+    "metadata": "page18-6",
+    "article": "Nov 20, 2023\nNetwork and Performance Testing in Browser Automation"
+  },
+  {
+    "metadata": "page18-7",
+    "article": "Nov 20, 2023\nTest Automation for Internationalization and Localization"
+  },
+  {
+    "metadata": "page18-8",
+    "article": "Nov 20, 2023\nThe Importance of Collaboration Between SDET and Development Teams"
+  },
+  {
+    "metadata": "page18-9",
+    "article": "Nov 20, 2023\nThe Future of Software Testing: Trends and Predictions"
+  },
+  {
+    "metadata": "page18-10",
+    "article": "Nov 20, 2023\nAutomated Testing for Virtual Reality (VR) Applications"
+  },
+  {
+    "metadata": "page18-11",
+    "article": "Nov 20, 2023\nUnlocking Efficiency with RPA: Real-World Use Cases"
+  },
+  {
+    "metadata": "page18-12",
+    "article": "Nov 20, 2023\nScaling RPA Across Your Organization"
+  },
+  {
+    "metadata": "page18-13",
+    "article": "Nov 20, 2023\nTips and Tricks for Implementing Automated Testing"
+  },
+  {
+    "metadata": "page18-14",
+    "article": "Nov 20, 2023\nCommon Automated Testing Mistakes to Avoid"
+  },
+  {
+    "metadata": "page18-15",
+    "article": "Nov 20, 2023\nRPA Security: Protecting Your Data and Systems"
+  },
+  {
+    "metadata": "page19-1",
+    "article": "Nov 20, 2023\nChoosing the Right Testing Metrics for Your Project"
+  },
+  {
+    "metadata": "page19-2",
+    "article": "Nov 20, 2023\nHow to Design Maintainable Automated Test Scripts"
+  },
+  {
+    "metadata": "page19-3",
+    "article": "Nov 20, 2023\n10 Essential Browser Automation Tools for 2023"
+  },
+  {
+    "metadata": "page19-4",
+    "article": "Nov 20, 2023\nVisual Regression Testing: Tools and Techniques"
+  },
+  {
+    "metadata": "page19-5",
+    "article": "Nov 20, 2023\nAutomating Performance Tests: Measuring System Performance"
+  },
+  {
+    "metadata": "page19-6",
+    "article": "Nov 20, 2023\nEssential Skills for a Successful SDET"
+  },
+  {
+    "metadata": "page19-7",
+    "article": "Nov 20, 2023\nThe Role of RPA in Achieving Operational Excellence"
+  },
+  {
+    "metadata": "page19-8",
+    "article": "Nov 20, 2023\nChoosing the Right RPA Tool: A Comprehensive Comparison"
+  },
+  {
+    "metadata": "page19-9",
+    "article": "Nov 20, 2023\nContinuous Testing: Why It's Crucial for DevOps Success"
+  },
+  {
+    "metadata": "page19-10",
+    "article": "Nov 20, 2023\nRPA in the Cloud: Benefits and Considerations"
+  },
+  {
+    "metadata": "page19-11",
+    "article": "Nov 20, 2023\nBuilding a Strong QA Culture in Your Organization"
+  },
+  {
+    "metadata": "page19-12",
+    "article": "Nov 20, 2023\nCross-Browser Testing Made Easy with Automation"
+  },
+  {
+    "metadata": "page19-13",
+    "article": "Nov 20, 2023\nThe Future of SDET: Emerging Trends"
+  },
+  {
+    "metadata": "page19-14",
+    "article": "Nov 20, 2023\nKeyword-Driven Testing: Simplifying Test Creation"
+  },
+  {
+    "metadata": "page19-15",
+    "article": "Nov 20, 2023\nThe Role of QA in Ensuring Data Privacy and Compliance"
+  },
+  {
+    "metadata": "page20-1",
+    "article": "Nov 20, 2023\nBuilding Scalable Automated Testing Architectures"
+  },
+  {
+    "metadata": "page20-2",
+    "article": "Nov 20, 2023\nTesting Automation for CI/CD Pipelines: A Comprehensive Guide"
+  },
+  {
+    "metadata": "page20-3",
+    "article": "Nov 20, 2023\nTest Automation for Progressive Web Apps (PWAs)"
+  },
+  {
+    "metadata": "page20-4",
+    "article": "Nov 20, 2023\nAutomated Testing for Blockchain Applications"
+  },
+  {
+    "metadata": "page20-5",
+    "article": "Nov 20, 2023\nHow to Measure ROI of Test Automation"
+  },
+  {
+    "metadata": "page20-6",
+    "article": "Nov 20, 2023\nAutomated Testing: A Key Component of Continuous Integration"
+  },
+  {
+    "metadata": "page20-7",
+    "article": "Nov 20, 2023\nThe Impact of Cloud Computing on Test Automation"
+  },
+  {
+    "metadata": "page20-8",
+    "article": "Nov 20, 2023\nRPA and Digital Transformation: Driving Business Innovation"
+  },
+  {
+    "metadata": "page20-9",
+    "article": "Nov 20, 2023\nBrowser Automation for Web Scraping: Ethical Considerations"
+  },
+  {
+    "metadata": "page20-10",
+    "article": "Nov 20, 2023\nThe Role of SDET in Agile Development"
+  },
+  {
+    "metadata": "page20-11",
+    "article": "Nov 20, 2023\nAutomated Testing Best Practices for Agile Teams"
+  },
+  {
+    "metadata": "page20-12",
+    "article": "Nov 20, 2023\nShift-Left Testing and Automation"
+  },
+  {
+    "metadata": "page20-13",
+    "article": "Nov 20, 2023\nTaming the Web: A Beginner's Guide to Browser Automation"
+  },
+  {
+    "metadata": "page20-14",
+    "article": "Nov 20, 2023\nBrowser Automation for Competitive Intelligence"
+  },
+  {
+    "metadata": "page20-15",
+    "article": "Nov 20, 2023\nTest-Driven Development (TDD) for SDETs"
+  }
+]

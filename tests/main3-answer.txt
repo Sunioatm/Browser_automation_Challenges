@@ -1,0 +1,17 @@
+Q1
+Missing Articles: [ 'Building a Career Path from QA to SDET' ]
+
+Q2
+Duplicate articles found: [
+  {
+    title: 'Automated Testing for Microservices Architecture',
+    count: 2
+  }
+]
+
+Q3
+{
+    title: 'The Role of SDETs in Shift-Left Testing',
+    expected: 114,
+    actual: 84
+}
