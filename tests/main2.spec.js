@@ -46,7 +46,7 @@ test("Challenge 2: Seven Segment Display", async ({ page }) => {
     }
 
     // expectec completion message
-    await page.waitForSelector("text=Congratulations! You won!");
+    expect(await page.locator("text=Congratulations! You won!")).toBeVisible();
 
     await page.waitForTimeout(3000);
 

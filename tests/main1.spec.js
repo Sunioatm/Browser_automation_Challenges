@@ -57,8 +57,9 @@ test('Challenge 1: Hunting', async ({ page }) => {
         }
     }
 
-    // Check for the "Challenge completed!" message
-    const completionMessage = await page.locator("text=Challenge completed!").first();
+    // Check for the "Challenge completed!" message    
+    expect(await page.locator("text=Challenge completed!")).toBeVisible();
+
     if (await completionMessage.isVisible()) {
         console.log("Challenge completed!");
     } else {

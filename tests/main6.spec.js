@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 process.env.PWDEBUG = '0';
 
-test("Key Mapping Test", async ({ page }) => {
+test("Challenge 6: typing", async ({ page }) => {
     await page.goto("https://learn.manoonchai.com/");
     const input = await page.locator("input.input");
     await input.focus();
